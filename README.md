@@ -3,14 +3,23 @@ In this project I analyzed survival patterns using visualizations like histogram
 The dataset contains information about passengers aboard the Titanic, including:
 
 PassengerId
+
 Survived (0 = No, 1 = Yes)
+
 Pclass (Passenger Class)
+
 Sex
+
 Age
+
 SibSp (Siblings/Spouses aboard)
+
 Parch (Parents/Children aboard)
+
 Fare
+
 Embarked (Port of Embarkation)
+
 The dataset was sourced from Kaggle. 
 Tools and libraries used (Python,Pandas,Numpy,Matplotlib,Seaborn,Jupyter Notebook
 
